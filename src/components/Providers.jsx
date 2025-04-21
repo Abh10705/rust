@@ -1,5 +1,5 @@
 'use client'
-import { config } from "@/config/config";
+import { config } from "../config";
 import { QueryClientProvider, QueryClient } from "@tanstack/react-query";
 import { WagmiProvider } from "wagmi";
 
